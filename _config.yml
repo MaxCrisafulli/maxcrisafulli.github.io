@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Max Crisafulli"
+title                    : "Max F. Crisafulli"
 title_separator          : "-"
 name                     : &name "Max F. Crisafulli"
 description              : &description "changed personal description"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Max Crisafulli"
-  avatar           : "profile.png"
+  name             : "Max F. Crisafulli"
+  avatar           : "pfp_straight.png"
   bio              : "MS/PhD Student studying Control Theory at UCSB"
   location         : "Santa Barbara, CA"
-  employer         : "ECE Department - UCSB" 
+  employer         : #"ECE Department - UCSB" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "maxcrisafulli@umail.ucsb.edu"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "max-crisafulli"
-  orcid            : "https://orcid.org/0009-0005-4775-2204"
+  orcid            : #"https://orcid.org/0009-0005-4775-2204"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
