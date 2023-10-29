@@ -75,14 +75,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  G-5Y9MXEQ9CM
 
 
 # Site Author
 author:
   name             : "Max F. Crisafulli"
   avatar           : "pfp_straight.png"
-  bio              : "MS/PhD Student studying Control Theory at UCSB"
+  bio              : "MS/PhD Student at UC Santa Barbara"
   location         : "Santa Barbara, CA"
   employer         : #"ECE Department - UCSB" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
