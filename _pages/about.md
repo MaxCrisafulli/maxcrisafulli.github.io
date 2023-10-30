@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a MS/PhD Student in the ECE Department at UCSB, advised by [Andrew Teel](https://engineering.ucsb.edu/people/andrew-teel). My interests are in Hybrid & Nonlinear control theory. I graduated from UCSB in 2019 with a B.S. in Electrical Engineering, and stayed on in the MS/PhD program.
+I am a MS/PhD Student in the ECE Department at UCSB, advised by [Andrew Teel](https://engineering.ucsb.edu/people/andrew-teel). My interests are in Hybrid & Nonlinear control theory. I graduated from UCSB in 2023 with a B.S. in Electrical Engineering, and stayed on in the MS/PhD program.
 
 <!-- A data-driven personal website
 ======
