@@ -12,6 +12,8 @@ redirect_from:
 EDUCATION
 ======
 * **MS/PhD** (Control Theory), UC Santa Barbara, 2028 (Expected)
+  <!-- * Coursework:  -->
+  * Overall GPA: 4.00/4.00
 * **B.S.** (Electrical Engineering), UC Santa Barbara, 2023
   * Coursework: Continuous & Digital Control Systems, Kalman-Filtering & Optimal Estimation, RF Electronics, Circuit Design/Analysis, Digital Signal Processing, IC Fabrication, Electromagnetic/TL Theory, Machine Learning
   * Overall GPA: 3.96/4.00
