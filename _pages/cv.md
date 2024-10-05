@@ -12,7 +12,7 @@ redirect_from:
 EDUCATION
 ======
 * **MS/PhD** (Control Theory), UC Santa Barbara, 2028 (Expected)
-  <!-- * Coursework:  -->
+  * Coursework: Linear Systems, Nonlinear Control, Stochastic Processes, Network Systems, Numerical Methods
   * Overall GPA: 4.00/4.00
 * **B.S.** (Electrical Engineering), UC Santa Barbara, 2023
   * Coursework: Continuous & Digital Control Systems, Kalman-Filtering & Optimal Estimation, RF Electronics, Circuit Design/Analysis, Digital Signal Processing, IC Fabrication, Electromagnetic/TL Theory, Machine Learning
@@ -20,6 +20,12 @@ EDUCATION
 
 WORK EXPERIENCE
 ======
+* **Summer 2024: *ASML* (Controls Research Intern)**
+  * Designed an MPC cascade control design for regulating EUV dose in the ASML EXE5200 High-NA photolithography machine. Developed a linear optimal control formulation to inform the MPC cost function and constraint design.
+  * Analyzed the performance and robustness of the controller through statistical methods and ASML-specific KPIs.
+  * Began a feasibility study of a fixed-point FPGA implementation of the design.
+
+
 * **Summer 2023: *SpaceX - Starlink* (Associate Engineer - Postgrad)**
   * Designed, laid out, released, and programmed a daughter-board PCBA for a Raspberry Pi 4 to act as a connectivity tester for Ethernet links between boards in the Starlink satellite, functioning up to datarates of 25Gb/s. Developed for integration teams at Starlink manufacturing and launch facilities to reduce time spent debugging connectivity issues.
   * Aided in debugging of on-orbit hardware failures and bring up of in-development PCBAs for next-gen satellites
@@ -44,7 +50,7 @@ PROJECTS
   
 SKILLS
 ======
-* **Programming Languages:** Python, MATLAB, C, VHDL, Latex
+* **Programming Languages:** MATLAB, Python, VHDL, C
 * **Programs & CAD Tools:** MATLAB, SIMULINK, Linux, Xilinx Vivado, LTSpice, Keysight ADS, Siemens Xpedition Designer & Layout, Microsoft Office Programs, Atlassian Tools
 * **Electronics Development:** PCB Schematic Capture & Layout, Use of Electronics Development Equipment
 

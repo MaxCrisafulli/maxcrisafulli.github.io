@@ -75,7 +75,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "custom" #"google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false #"custom" #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :  #G-5Y9MXEQ9CM
 
@@ -105,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "max-crisafulli"
-  orcid            : #"https://orcid.org/0009-0005-4775-2204"
+  orcid            : "https://orcid.org/0009-0005-4775-2204"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
