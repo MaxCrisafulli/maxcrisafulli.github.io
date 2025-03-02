@@ -88,7 +88,7 @@ author:
   location         : "Santa Barbara, CA"
   employer         : #"ECE Department - UCSB" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=4K9KfBMAAAAJ&hl=en
   email            : "maxcrisafulli@ucsb.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
