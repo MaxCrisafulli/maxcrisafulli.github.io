@@ -11,10 +11,12 @@ redirect_from:
 
 EDUCATION
 ======
-* **MS/PhD** (Control Theory), UC Santa Barbara, 2028 (Expected)
-  * Coursework: Linear Systems, Nonlinear Control, Stochastic Processes, Network Systems, Numerical Methods
+* **PhD** (Control Theory), UC Santa Barbara, 2028 (Expected)
+  * Stochastic Approximation and Hybrid Systems
+* **MS** (Control Theory), UC Santa Barbara,  03/2025
+  * Coursework: Linear Systems, Nonlinear Control, Hybrid Systems, Stochastic Processes, Network Systems, Numerical Methods, Koopman Operator Theory, Estimation Theory
   * Overall GPA: 4.00/4.00
-* **B.S.** (Electrical Engineering), UC Santa Barbara, 2023
+* **B.S.** (Electrical Engineering), UC Santa Barbara, 06/2023
   * Coursework: Continuous & Digital Control Systems, Kalman-Filtering & Optimal Estimation, RF Electronics, Circuit Design/Analysis, Digital Signal Processing, IC Fabrication, Electromagnetic/TL Theory, Machine Learning
   * Overall GPA: 3.96/4.00
 
@@ -39,14 +41,14 @@ WORK EXPERIENCE
 * **Summer 2021: *ASML* (Analog Electrical Engineering Intern)**
   * Worked to develop a differential block pulse amplifier for use as a laboratory prototype. Constructed a differential combiner assembly to combine block pulse and sinusoidal signals for use in driving a piezo-electric transducer. Produced documentation, startup and use procedures, daily reports/presentations, and wiring schematics for all components in the system.
 
-PROJECTS
+<!-- PROJECTS
 ======
 * **Energy Control for EUV Photolithography**
   * Developed a novel control scheme to mitigate sensor feedback delay issues using a model of the ASML EUV Source in SIMULINK. Designed a feedback predictor algorithm using system identification methods and Kalman filtering. Developed metrics to characterize and verify system performance.
   * Project won the ”Distinguished Technical Achievement in EE” Award at End-of-Year Senior Project Expo
 
 * **Rotational Inverted Pendulum Control ([Repo](https://github.com/MaxCrisafulli/furuta_pendulum))**
-  * Derived nonlinear equations of motion and linearized to produce a state-space model of a rotational inverted (Furuta) pendulum. Designed a non-linear swing up and LQR balancing controller, as well as the switching logic to allow the pendulum to swing up and balance itself. Performed state estimation with a Kalman Filter. Implemented and tuned on hardware using SIMULINK autocoder.
+  * Derived nonlinear equations of motion and linearized to produce a state-space model of a rotational inverted (Furuta) pendulum. Designed a non-linear swing up and LQR balancing controller, as well as the switching logic to allow the pendulum to swing up and balance itself. Performed state estimation with a Kalman Filter. Implemented and tuned on hardware using SIMULINK autocoder. -->
   
 SKILLS
 ======
