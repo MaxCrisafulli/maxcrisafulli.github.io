@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in the ECE Department at UCSB, advised by [Andrew Teel](https://engineering.ucsb.edu/people/andrew-teel). I received a B.S. in Electrical Engineering in 2023 and an M.S. degrees in 2025, both from UC Santa Barbara, where I am currently working towards a PhD.
+I am a PhD Student in the ECE Department at UCSB, advised by [Andrew Teel](https://engineering.ucsb.edu/people/andrew-teel). I received the B.S. in Electrical Engineering in 2023 and the M.S. degree in 2025, both from UC Santa Barbara, where I am currently working towards a PhD in the area of control theory.
 
 My interests include stochastic approximation theory applied to hybrid dynamical systems and stochastic hybrid systems. 
 
