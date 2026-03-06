@@ -75,21 +75,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  false #"custom" #"google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" #"custom" #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  #G-5Y9MXEQ9CM
+    tracking_id          :  G-5Y9MXEQ9CM
 
 
 # Site Author
 author:
   name             : "Max F. Crisafulli"
-  avatar           : "pfp_straight.png"
-  bio              : "MS/PhD Student at UC Santa Barbara"
+  avatar           : "MaxCrisafulli_Headshot.jpeg"
+  bio              : "PhD Student at UC Santa Barbara"
   location         : "Santa Barbara, CA"
   employer         : #"ECE Department - UCSB" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=4K9KfBMAAAAJ&hl=en
-  email            : "maxcrisafulli@ucsb.edu"
+  #email            : "maxcrisafulli@ucsb.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,14 +98,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MaxCrisafulli"
+  #github           : "MaxCrisafulli"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "max-crisafulli"
-  orcid            : "https://orcid.org/0009-0005-4775-2204"
+  orcid            : #"https://orcid.org/0009-0005-4775-2204"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

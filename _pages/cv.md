@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitæ"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,24 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
+Education
 ======
 * **PhD** (Control Theory), UC Santa Barbara, 2028 (Expected)
-  * Stochastic Approximation and Hybrid Systems
-* **MS** (Control Theory), UC Santa Barbara,  03/2025
+  * Stochastic Approximation of Hybrid Systems
+* **MS** (ECE), UC Santa Barbara,  03/2025
   * Coursework: Linear Systems, Nonlinear Control, Hybrid Systems, Stochastic Processes, Network Systems, Numerical Methods, Koopman Operator Theory, Estimation Theory
   * Overall GPA: 4.00/4.00
 * **B.S.** (Electrical Engineering), UC Santa Barbara, 06/2023
   * Coursework: Continuous & Digital Control Systems, Kalman-Filtering & Optimal Estimation, RF Electronics, Circuit Design/Analysis, Digital Signal Processing, IC Fabrication, Electromagnetic/TL Theory, Machine Learning
   * Overall GPA: 3.96/4.00
 
-WORK EXPERIENCE
+Work Experience
 ======
+* **Summer 2025: *Toyon Research Corporation* (Antenna & RF Systems Intern)**
+  * Developed MATLAB code for satellite Doppler tracking.
+  * Generated C++ code using MATLAB Coder for real-time implementation on ROS.
+
 * **Summer 2024: *ASML* (Controls Research Intern)**
   * Designed an MPC cascade control design for regulating EUV dose in the ASML EXE5200 High-NA photolithography machine. Developed a linear optimal control formulation to inform the MPC cost function and constraint design.
   * Analyzed the performance and robustness of the controller through statistical methods and ASML-specific KPIs.
-  * Began a feasibility study of a fixed-point FPGA implementation of the design.
-
+  * Conducted a feasibility study of a fixed-point FPGA implementation of the design.
 
 * **Summer 2023: *SpaceX - Starlink* (Associate Engineer - Postgrad)**
   * Designed, laid out, released, and programmed a daughter-board PCBA for a Raspberry Pi 4 to act as a connectivity tester for Ethernet links between boards in the Starlink satellite, functioning up to datarates of 25Gb/s. Developed for integration teams at Starlink manufacturing and launch facilities to reduce time spent debugging connectivity issues.
@@ -35,7 +38,8 @@ WORK EXPERIENCE
 
 * **Summer 2022: *ASML* (FPGA Engineering Intern)**
   * Developed hardware/firmware testbench plans for an FPGA-based DAQ module. Produced documentation, block diagrams, and proposals for test procedures of the testbench.
-  * Worked on a VHDL & SIMULINK HDL Coder based filter in parallel with main task. Developed from ground up through to implementation on an FPGA dev-board ([Repo](https://github.com/MaxCrisafulli/Basys3-Simulink-Audio-Filter)). 
+  * Worked on a VHDL & SIMULINK HDL Coder based filter in parallel with main task. Developed from ground up through to implementation on an FPGA dev-board. 
+  <!-- ([Repo](https://github.com/MaxCrisafulli/Basys3-Simulink-Audio-Filter)).  -->
   * Gained experience in programming VHDL, writing test-benches, Xilinx Vivado synthesis tools and IP cores, Modelsim, Makefiles/Buildfile automation, and FPGA verification.
 
 * **Summer 2021: *ASML* (Analog Electrical Engineering Intern)**
@@ -50,11 +54,15 @@ WORK EXPERIENCE
 * **Rotational Inverted Pendulum Control ([Repo](https://github.com/MaxCrisafulli/furuta_pendulum))**
   * Derived nonlinear equations of motion and linearized to produce a state-space model of a rotational inverted (Furuta) pendulum. Designed a non-linear swing up and LQR balancing controller, as well as the switching logic to allow the pendulum to swing up and balance itself. Performed state estimation with a Kalman Filter. Implemented and tuned on hardware using SIMULINK autocoder. -->
   
-SKILLS
+Skills
 ======
-* **Programming Languages:** MATLAB, Python, VHDL, C
-* **Programs & CAD Tools:** MATLAB, SIMULINK, Linux, Xilinx Vivado, LTSpice, Keysight ADS, Siemens Xpedition Designer & Layout, Microsoft Office Programs, Atlassian Tools
-* **Electronics Development:** PCB Schematic Capture & Layout, Use of Electronics Development Equipment
+* **Programming Languages:** MATLAB, Python, C++, VHDL
+* **Programs & CAD Tools:** MATLAB, SIMULINK, Linux, Xilinx Vivado, Microsoft Office Programs, Atlassian Tools
+<!-- * **Electronics Development:** PCB Schematic Capture & Layout, Use of Electronics Development Equipment -->
+
+Awards
+======
+* [2025 ECE Outstanding Teaching Assistant](https://www.ece.ucsb.edu/news/all/2025/m-crisafulli-outstanding-ee-ta)
 
 
 
@@ -62,7 +70,7 @@ SKILLS
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> 
   
 Talks
 ======
